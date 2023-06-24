@@ -1,0 +1,7 @@
+
+/logs
+/letsencrypt/accounts
+/letsencrypt/archive
+/letsencrypt/live
+/letsencrypt/renewal
+/letsencrypt/renewal-hooks
