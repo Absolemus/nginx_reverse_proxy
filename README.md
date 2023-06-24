@@ -134,7 +134,7 @@ certbot:
 
 ## Запуск
 
-- Скачать проект `git clone https://github.com/Absolemus/nginx_reverse_proxy'
+- Скачать проект `git clone https://github.com/Absolemus/nginx_reverse_proxy`
 - Установить docker на рабочем месте
 - В коммандной строке войти в директорию с файлом docker-compose.yml проекта
 - Выполнить команду `docker compose -f "docker-compose.yml" up -d --build`
