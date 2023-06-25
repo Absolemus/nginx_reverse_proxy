@@ -69,7 +69,7 @@ http {
 
 ### Контейнер nginx
 
-```docker-compose
+```yml
 nginx:
     # имя контейнера
     container_name: nginx
@@ -102,7 +102,7 @@ nginx:
 
 ### Контейнер certbot
 
-```docker-compose
+```yml
 certbot:
     # имя контейнера
     container_name: "certbot"
